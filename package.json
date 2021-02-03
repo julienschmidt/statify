@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "browserify": "^14.4.0",
     "collections": "^5.0.7",
     "gulp": "^3.9.1",
